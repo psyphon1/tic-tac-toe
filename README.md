@@ -1,41 +1,47 @@
-# 🎮 Tic-Tac-Toe (Beta Version) 🕹️
+# 🎮 Tic-Tac-Toe Game
 
-This is an early beta version of a simple Tic-Tac-Toe game implemented in Java. The game is currently text-based and played via the console. This project is just one of many practice iterations, with more updates and improvements planned for the future. 🚀
+## 📌 Project Overview
+This is a **Tic-Tac-Toe** game implemented in **Java**, designed for both **single-player and multiplayer** modes. The project demonstrates strong **object-oriented programming (OOP)** principles and interactive **console-based gameplay**.
 
-## ✨ Features
-- 👥 Two-player mode
-- 🖥️ Simple text-based interface
-- ✅ Input validation for moves
-- 🏆 Automatic win detection
+## 🔥 Features
+✅ **Single Player Mode** – Play against an AI opponent.  
+✅ **Multiplayer Mode** – Play with another person.  
+✅ **Game Board Display** – Interactive and user-friendly board updates.  
+✅ **Win Detection** – Automatically detects wins, losses, or draws.  
+✅ **Replay Option** – Restart the game without restarting the program.  
 
-## 🎲 How to Play
-1. ▶️ Run the Java program.
-2. ✍️ Enter player names.
-3. 🔢 Take turns entering positions (1-9) to mark X or O.
-4. 🎉 The game announces a winner or a draw when the match ends.
+## 🛠️ Tech Stack
+- **Java** – Core game logic
+- **OOP Concepts** – Encapsulation, Inheritance, Polymorphism
+- **Console-Based UI** – Simple text-based user interaction
 
-## 🔮 Future Plans
-This project is still in development, and future versions will introduce:
-- 🖥️ A fully interactive UI using **HTML, CSS, and JavaScript**.
-- 🏗️ A backend powered by **Spring Boot**.
-- 🌍 Online multiplayer support.
-- 🎮 Enhanced gameplay features and optimizations.
+## 🏗️ Installation & Setup
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/psyphon1/tic-tac-toe.git
+cd tic-tac-toe
+```
 
-Stay tuned for updates! 🚀
-
-## 📌 Requirements
-- ☕ Java 8 or later
-
-## ⚙️ Running the Project
-Compile and run using:
+### **2️⃣ Compile and Run**
 ```sh
 javac TicTacToe.java
 java TicTacToe
 ```
 
-## 🤝 Contributing
-Since this is an early version, suggestions and contributions are welcome! Feel free to fork and improve the project. 💡
+## 🎮 How to Play
+1️⃣ Run the program.  
+2️⃣ Choose **Single Player** or **Multiplayer** mode.  
+3️⃣ Players take turns marking `X` or `O` on the 3x3 board.  
+4️⃣ The game will detect a win, loss, or draw.  
+5️⃣ Option to **restart the game** or **exit**.  
 
-## 📜 License
-This project is released under the MIT License. 📄
+## 🚀 Future Enhancements
+🔹 **GUI Version** – Using Java Swing or JavaFX  
+🔹 **AI Improvement** – Implementing Minimax Algorithm  
+🔹 **Online Multiplayer** – Play against remote players  
+
+## 👨‍💻 Author
+**psyphon1** – [GitHub](https://github.com/psyphon1)
+
+💡 **Contributions & Feedback are Welcome!** 🚀
 
